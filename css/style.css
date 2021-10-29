@@ -1,0 +1,42 @@
+
+body {
+	background-image: url(https://www.ttandem.com/media/8-estrategias-para-mejorar-la-visibilidad-en-redes-sociales-714x317.jpg);
+    background-repeat: repeat-x;
+}
+
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    color: #f5f6f9;
+    text-decoration: none;
+    transition: color 3s
+}
+.text-start{
+    
+    
+    color: #000000
+    
+}
+
+.col-4{
+    background: #dddada;
+}
+
+.piePagina{
+    display: block;
+    padding: .5rem 1rem;
+   
+	background: rgb(8, 8, 8);
+    color:#f5f0f0
+
+}
+
+.form {
+
+    background: #c73232;
+}
+
+
+
+
